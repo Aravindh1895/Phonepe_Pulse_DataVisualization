@@ -1,3 +1,7 @@
+
+![Phonepe-Banner](https://github.com/Aravindh1895/Phonepe_Pulse_DataVisualization/assets/125996075/9c10b9ba-a6b9-4e57-89d2-da7e86dcc2ff)
+
+
 # Phonepe_Pulse_DataVisualization
 PhonePe Data Visualization API is a powerful tool that allows developers to integrate interactive visualizations into their applications. This API provides an efficient way to display data in various formats, such as charts, graphs, and maps, enhancing the user experience and making data analysis more accessible. 
 # PhonePe Pulse
